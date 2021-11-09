@@ -1,0 +1,65 @@
+.slider {
+  width: 100%;
+  height: 400px;
+  background-color: rgb(50, 50, 92);
+}
+#formInHome {
+  width: 500px;
+  height: 200px;
+
+  margin-left: 200px;
+  margin-top: 50px;
+}
+body {
+  background-color: white;
+}
+footer {
+  height: 300px;
+}
+
+#content {
+  margin-top: 50px;
+  width: 70%;
+  height: 200px;
+  margin-left: 25px;
+  color: rgb(50, 50, 92);
+}
+
+#cardInAbout {
+  margin-top: 90px;
+  margin-left: 100px;
+}
+#divynawhome {
+  height: 250px;
+  width: 100%;
+  background-color: rgba(80, 178, 235, 0.623);
+  display: flex;
+  justify-content: center;
+  border-radius: 5px;
+  align-items: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 50px;
+  color: rgb(18, 12, 56);
+}
+#Buttonid {
+  margin-left: 100px;
+  background-color: rgba(80, 178, 235, 0.301);
+  color: black;
+}
+
+#formInTodolist {
+  margin-left: 30px;
+  margin-bottom: 20px;
+}
+#toDoButton {
+  background-color: rgba(80, 178, 235, 0.301);
+  color: black;
+  margin-left: 5px;
+  margin-top: 7px;
+}
+
+#movie {
+  color: rgba(16, 94, 139, 0.952);
+  font-size: 30px;
+  margin: 10px;
+}
