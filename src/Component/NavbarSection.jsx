@@ -2,7 +2,6 @@ import React from "react";
 import {
   Navbar,
   Nav,
-
   Form,
   Button,
   Container,
@@ -30,6 +29,18 @@ export default function NavbarSection() {
               <Link className="linkstyle" to="/ToDo">
                 ToDo
               </Link>
+              <Link className="linkstyle" to="/DogApi">
+                {" "}
+                Dog
+              </Link>
+              <Link className="linkstyle" to="/signUp">
+                {" "}
+                LogIn
+              </Link>
+              <Link className="linkstyle" to="/Information">
+                {" "}
+                Information
+              </Link>
             </Nav>
             <Form className="d-flex">
               <FormControl
@@ -43,6 +54,7 @@ export default function NavbarSection() {
           </Navbar.Collapse>
         </Container>
       </Navbar>
+     
     </div>
   );
 }

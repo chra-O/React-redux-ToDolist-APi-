@@ -63,3 +63,8 @@ footer {
   font-size: 30px;
   margin: 10px;
 }
+.styleimage {
+  width: 285px;
+  height: 285px;
+  border-radius: 20px;
+}
